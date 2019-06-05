@@ -1,3 +1,4 @@
 require './app'
+require './lib/blog'
 
-run Blog
+run BlogApp
